@@ -40,5 +40,4 @@ It contains 2 subrepositories:
 
 **Dependencies:**
 
-*Python 3.6.4*
-*Pygal*
+*Python 3.6.4*,  *Pygal*
