@@ -13,6 +13,17 @@ It contains 2 subrepositories:
 
 
 
-Here we generate data(using python libraries...math, numpy,random_walk) and make visualizations  using matplotliib.
+*Here we generate data(using python libraries...math, numpy,random_walk) and make visualizations  using matplotliib.*
 
 **2. Using Pygal**:
+
+
+
+
+
+
+
+
+
+
+*You can use this repo to generate world color maps using pygal as shown above*
