@@ -6,6 +6,8 @@ Using materials in this repo, you can understand how to visualize data using pyt
 It contains 2 subrepositories:
 
 **1. Generate Data and visualize with matplotlib**: 
+*Here we generate data(using python libraries...math, numpy,random_walk) and make visualizations  using matplotliib.*
+
 
 <img align="right" width="415" height="287" src="https://user-images.githubusercontent.com/36197370/50686974-76ef3500-105a-11e9-82eb-af9ff049eb08.png"><img align="left" width="395" height="288" src="https://user-images.githubusercontent.com/36197370/50687939-1a8e1480-105e-11e9-88ad-9326aa70fd18.png">
 
@@ -15,10 +17,6 @@ It contains 2 subrepositories:
 
 
 
-
-
-
-*Here we generate data(using python libraries...math, numpy,random_walk) and make visualizations  using matplotliib.*
 
 
 **2. Using Pygal**:
