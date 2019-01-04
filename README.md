@@ -17,6 +17,8 @@ It contains 2 subrepositories:
 <img align="left" width="404" height="287" src="https://user-images.githubusercontent.com/36197370/50687947-2548a980-105e-11e9-93c8-0a2604908328.PNG">
 
 
+
+
 *Here we generate data(using python libraries...math, numpy,random_walk) and make visualizations  using matplotliib.*
 
 
