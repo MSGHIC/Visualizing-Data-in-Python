@@ -8,7 +8,6 @@ It contains 2 subrepositories:
 **1. Generate Data and visualize with matplotlib**: 
 
 ![random_walk-scatter_graph4](https://user-images.githubusercontent.com/36197370/50686974-76ef3500-105a-11e9-82eb-af9ff049eb08.png)
-
 ![scatter_graph1](https://user-images.githubusercontent.com/36197370/50687939-1a8e1480-105e-11e9-88ad-9326aa70fd18.png)
 
 ![rolling_dice_bars](https://user-images.githubusercontent.com/36197370/50687947-2548a980-105e-11e9-93c8-0a2604908328.PNG)
