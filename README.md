@@ -8,12 +8,10 @@ It contains 2 subrepositories:
 **1. Generate Data and visualize with matplotlib**: 
 
 <img align="right" width="415" height="287" src="https://user-images.githubusercontent.com/36197370/50686974-76ef3500-105a-11e9-82eb-af9ff049eb08.png">
-
 <img align="left" width="395" height="288" src="https://user-images.githubusercontent.com/36197370/50687939-1a8e1480-105e-11e9-88ad-9326aa70fd18.png">
 
 
 <img align="right" width="404" height="287"  src="https://user-images.githubusercontent.com/36197370/50687952-2da0e480-105e-11e9-8277-128cc22641be.png">
-
 <img align="left" width="404" height="287" src="https://user-images.githubusercontent.com/36197370/50687947-2548a980-105e-11e9-93c8-0a2604908328.PNG">
 
 
