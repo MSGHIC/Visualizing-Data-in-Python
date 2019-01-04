@@ -34,8 +34,11 @@ It contains 2 subrepositories:
 
 **2. Using Pygal:**
 
-*You can use this repo to generate world color maps using pygal as shown below*
+*You can use this repo to generate world color maps(as shown below) using pygal *
 
 ![worldmap](https://user-images.githubusercontent.com/36197370/50687961-372a4c80-105e-11e9-8bf9-78b161d25d2e.PNG)
 
+**Dependencies:**
 
+*Python 3.6.4*
+*Pygal*
