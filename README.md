@@ -11,9 +11,9 @@ It contains 2 subrepositories:
 
 <img align="left" width="395" height="288" src="https://user-images.githubusercontent.com/36197370/50687939-1a8e1480-105e-11e9-88ad-9326aa70fd18.png">
 
-![rolling_dice_bars](https://user-images.githubusercontent.com/36197370/50687947-2548a980-105e-11e9-93c8-0a2604908328.PNG)
+<img align="left" width="404" height="287" src="https://user-images.githubusercontent.com/36197370/50687947-2548a980-105e-11e9-93c8-0a2604908328.PNG">
 
-![scatter_graph](https://user-images.githubusercontent.com/36197370/50687952-2da0e480-105e-11e9-8277-128cc22641be.png)
+<img align="right" width="404" height="287"  src="https://user-images.githubusercontent.com/36197370/50687952-2da0e480-105e-11e9-8277-128cc22641be.png">
 
 *Here we generate data(using python libraries...math, numpy,random_walk) and make visualizations  using matplotliib.*
 
