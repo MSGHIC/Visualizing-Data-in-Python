@@ -27,7 +27,10 @@ It contains 2 subrepositories:
 
 
 
-**2. Using Pygal**:
+
+
+
+**2. Using Pygal:**
 
 *You can use this repo to generate world color maps using pygal as shown below*
 
